@@ -46,5 +46,6 @@ This project involves building a machine learning model to predict house prices 
 
 For any further inquiries or improvements, feel free to reach out.
 
+
 ### Connect me:
 [Linkedin](https://www.linkedin.com/in/suraj-poddar-b10629281/)
